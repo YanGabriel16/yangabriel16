@@ -4,8 +4,23 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/011020012015/)
 
 
-![YanGabriel16 GitHub stats](https://github-readme-stats.vercel.app/api?username=yangabriel16&show_icons=true&theme=tokyonight&count_private=true)
-![YanGabriel16 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yangabriel16&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/YanGabriel16/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YanGabriel16&theme=tokyonight&border=61dafb&hide_border=true" alt="stats" />
+  </a>
+</div>
+<br>
+<div align="center"> 
+    <a href="https://github.com/YanGabriel16/github-readme-stats" title="Go to Source">
+      <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=YanGabriel16&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    </a>
+</div>
+<br>
+<div align="center"> 
+    <a href="https://github.com/YanGabriel16/github-readme-stats">
+        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabriel16&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+    </a>
+</div>
 
 ## Tecnologias
 
