@@ -20,6 +20,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanGabriel16&bg_color=1a1b27&color=3178c6&line=be90f2&point=33a297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YanGabriel16&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 ### Social links:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-gabriel-silva-queiroz-90923321b/)
@@ -46,5 +50,14 @@
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/documentation/6.1/)
+
+![Snake animation](https://github.com/YanGabriel16/YanGabriel16/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+    <br>
+    <p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YanGabriel16}/count.svg" /></p>
+    <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C46B9&height=120&section=footer"/>
