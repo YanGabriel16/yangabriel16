@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be90f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yan+Gabriel;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Computer+Science+7/8)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanGabriel16&bg_color=1a1b27&color=3178c6&line=be90f2&point=33a297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
     <a>
       <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=YanGabriel16&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
@@ -17,12 +19,6 @@
     </a>
 </div>
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanGabriel16&bg_color=1a1b27&color=3178c6&line=be90f2&point=33a297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YanGabriel16&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ### Social links:
 
@@ -50,8 +46,6 @@
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/documentation/6.1/)
-
-![Snake animation](https://github.com/YanGabriel16/YanGabriel16/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
     <br>
