@@ -41,3 +41,5 @@
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/documentation/6.1/)
+
+![Snake animation](https://github.com/YanGabriel16/YanGabriel16/blob/output/github-contribution-grid-snake.svg)
