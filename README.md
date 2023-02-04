@@ -20,6 +20,9 @@
 </div>
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Social Links -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3178c6&size=25&left=true&vleft=true&width=1000&lines=Social+Links:)](https://git.io/typing-svg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-gabriel-silva-queiroz-90923321b/)
