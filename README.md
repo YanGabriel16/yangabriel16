@@ -29,8 +29,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yan.gabriel16)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dsgbobpfiskxtt54fluxe37e6i?si=AZ6V1zLIRyuXEHIabfSrPA&utm_source=copy-link)
 
-<!-- Gamming Social Links -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bcad&size=25&left=true&vleft=true&width=1000&lines=Gamming+Social+Links:)](https://git.io/typing-svg)
+<!-- Game Profiles -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bcad&size=25&left=true&vleft=true&width=1000&lines=Game+Profiles:)](https://git.io/typing-svg)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/011020012015/)
 [![battlenet](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]()
 [![epic_games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
