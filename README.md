@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be90f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yan+Gabriel;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Computer+Science+7/8)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanGabriel16&bg_color=1a1b27&color=3178c6&line=be90f2&point=33a297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<!--     <a>
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanGabriel16&bg_color=1a1b27&color=3178c6&line=be90f2&point=33a297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+    <a>
       <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=YanGabriel16&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-    </a> -->
+    </a>
     <a>
         <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YanGabriel16&theme=tokyonight&border=61dafb&hide_border=true" alt="stats" />
     </a>
