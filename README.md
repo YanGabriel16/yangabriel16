@@ -48,13 +48,18 @@
 
 <!-- Skills -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC7638&size=25&left=true&vleft=true&width=1000&lines=Skills:)](https://git.io/typing-svg)
-[![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/documentation/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)]()
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com)
 [![amazon_aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com)
+[![microsoft azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+
+<!-- Database Skills -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F95633&size=25&left=true&vleft=true&width=1000&lines=Database+Skills:)](https://git.io/typing-svg)
+[![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![redis](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge)](https://redis.io/)
 
 <!-- College Skills -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BCB638&size=25&left=true&vleft=true&width=1000&lines=College+Skills:)](https://git.io/typing-svg)
@@ -85,6 +90,7 @@
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/docs/getting-started.html)
 [![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/docs/getting-started)
 [![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/guide/introduction.html)
+[![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
 
 <div align="center">
     <br>
