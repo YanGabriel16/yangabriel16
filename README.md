@@ -5,9 +5,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanGabriel16&bg_color=1a1b27&color=3178c6&line=be90f2&point=33a297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-    <a>
+<!--     <a>
       <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=YanGabriel16&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-    </a>
+    </a> -->
     <a>
         <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YanGabriel16&theme=tokyonight&border=61dafb&hide_border=true" alt="stats" />
     </a>
