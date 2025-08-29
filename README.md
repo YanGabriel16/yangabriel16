@@ -45,6 +45,7 @@
 
 <!-- Skills -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC7638&size=25&left=true&vleft=true&width=1000&lines=Skills:)](https://git.io/typing-svg)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/docs/getting-started.html)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/documentation/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)]()
@@ -55,6 +56,7 @@
 <!-- Database Skills -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F95633&size=25&left=true&vleft=true&width=1000&lines=Database+Skills:)](https://git.io/typing-svg)
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 [![redis](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge)](https://redis.io/)
 
@@ -83,18 +85,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be90f2&size=25&left=true&vleft=true&width=1000&lines=Interest:)](https://git.io/typing-svg)
 [![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/docs/)
-[![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/docs/getting-started.html)
 [![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/docs/getting-started)
 [![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/guide/introduction.html)
 [![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
-
-<div align="center">
-    <br>
-    <p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YanGabriel16}/count.svg" /></p>
-    <br>
-</div>
 
 <!-- Snake -->
 <div align="center"> 
