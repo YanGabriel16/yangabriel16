@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C46B9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=be90f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yan+Gabriel;I'm+23+years+old;I'm+from+Brazil;I'm+studying+Computer+Science+7/8)](https://git.io/typing-svg)
-
-
 <div align="center">
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanGabriel16&bg_color=1a1b27&color=3178c6&line=be90f2&point=33a297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
     <a>
