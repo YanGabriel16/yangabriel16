@@ -52,9 +52,11 @@
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com)
 [![amazon_aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com)
 [![microsoft azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 
 <!-- Database Skills -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F95633&size=25&left=true&vleft=true&width=1000&lines=Database+Skills:)](https://git.io/typing-svg)
+[![microsoft sql server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16)
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
@@ -62,15 +64,9 @@
 
 <!-- College Skills -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BCB638&size=25&left=true&vleft=true&width=1000&lines=College+Skills:)](https://git.io/typing-svg)
-[![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![microsoft sql server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16)
 [![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/documentation/6.1/)
 [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
-[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://docs.blender.org)
 
 <!-- Other Skills -->
